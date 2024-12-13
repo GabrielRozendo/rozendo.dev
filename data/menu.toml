@@ -6,7 +6,7 @@ entries = [
   { title = "Developer 👨‍💻" },
   { title = "Brazilian 🇧🇷 living in Portugal 🇵🇹" },
   { title = "He/Him" },
-  { title = "Resume: cv.Gabriel.Rozendo.dev", url = "cv.gabriel.rozendo.dev" },
+  { title = "Resume: cv.Gabriel.Rozendo.dev", url = "https://cv.gabriel.rozendo.dev" },
   { title = "Entrepreneur 👨‍💼" },
   { title="LinkedIn: <i>GabrielRozendo</i>", url="http://linkedin.com/in/gabrielrozendo/" },
   { title="Telegram: <i>@GabrielRozendo</i>", url="https://t.me/gabrielrozendo" },
