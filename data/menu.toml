@@ -1,0 +1,64 @@
+[[entries]]
+title = "Me"
+
+entries = [
+  { title = "👉 /about me", url="/about" },
+  { title = "Developer 👨‍💻" },
+  { title = "Brazilian 🇧🇷 living in Portugal 🇵🇹" },
+  { title = "He/Him" },
+  { title = "Resume: cv.Gabriel.Rozendo.dev", url = "cv.gabriel.rozendo.dev" },
+  { title = "Entrepreneur 👨‍💼" },
+  { title="LinkedIn: <i>GabrielRozendo</i>", url="http://linkedin.com/in/gabrielrozendo/" },
+  { title="Telegram: <i>@GabrielRozendo</i>", url="https://t.me/gabrielrozendo" },
+]
+
+[[entries]]
+title = "About Ideas Now .com"
+url = "https://aboutideasnow.com"
+entries = [
+   { title = "/about", url = "/about" },
+   { title = "/ideas", url = "/ideas" },
+   { title = "/now", url = "/now" },
+  ]
+
+# [[entries]]
+# title = "all posts"
+# 
+#   [entries.post_list]
+#   limit = 5
+#   show_more = true
+#   show_more_text = "See archive..."
+#   show_more_url = "posts"
+
+[[entries]]
+title = "this"
+url = "https://rozendo.dev"
+
+  [[entries.entries]]
+  title = "Made with Hugo"
+  url = "https://gohugo.io"
+
+  [[entries.entries]]
+  title = "Theme: nostyleplease"
+  url = "https://github.com/hanwenguo/hugo-theme-nostyleplease"
+
+  [[entries.entries]]
+  title = "rss"
+  url = "index.xml"
+
+  [[entries.entries]]
+  title = "Goal:"
+  entries = [
+    { title = "Public space and index" },
+    { title = "List some projects" },
+  ]
+
+
+[[entries]]
+title = "Posts 🔜"
+
+  [entries.post_list]
+  section = "posts"
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "posts"
