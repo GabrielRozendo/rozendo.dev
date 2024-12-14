@@ -1,7 +1,7 @@
 +++
 title =  "/about"
 date = 2024-12-13T21:43:00+00:00
-draft = false
+draft = true
 +++
 
 > /about pages are about the past: how people see themselves and what brought them there. That's useful as a general overview.
@@ -18,3 +18,13 @@ Get from github https://github.com/GabrielRozendo/GabrielRozendo/edit/master/REA
 - 💪  I like to play sports 🏋️‍🧗‍🏈⚽
 - ♟️  And games. 🎲🃏 
 -->
+
+como criar tags nos posts?
+como listar só com uma tag específica?
+
+/now
+/ideas
+lista os posts com essa tag
+
+
+exemplo: https://olano.dev/blog/tags/#ideas

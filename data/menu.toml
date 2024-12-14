@@ -4,6 +4,7 @@ title = "Me"
 entries = [
   { title = "👉 /about me", url="/about" },
   { title = "Developer 👨‍💻" },
+  { title = "welcome.rozendo.dev", url = "https://welcome.rozendo.dev" },
   { title = "Brazilian 🇧🇷 living in Portugal 🇵🇹" },
   { title = "He/Him" },
   { title = "Resume: cv.Gabriel.Rozendo.dev", url = "https://cv.gabriel.rozendo.dev" },
